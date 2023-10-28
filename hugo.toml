@@ -1,0 +1,43 @@
+baseURL = 'https://example.org/'
+languageCode = 'en'
+defaultContentLanguage = 'en'
+title = "Caro & the Viking | Mar 2024"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[languages]
+  [languages.en]
+    contentDir = 'content/en'
+    disabled = false
+    languageCode = 'en'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    weight = 1
+  [languages.es]
+    contentDir = 'content/es'
+    disabled = false
+    languageCode = 'es'
+    languageDirection = 'ltr'
+    languageName = 'Español'
+    weight = 2
+
+[[languages.en.menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 10
+
+[[languages.en.menu.main]]
+identifier = "rsvp"
+name = "RSVP"
+url = "https://docs.google.com/forms/d/e/1FAIpQLScQd55GTTCP39sZiMm8NV5O72NY3x9jtCs84lB591-Bu4fviw/viewform?usp=sf_link"
+weight = 20
+
+[[module.imports]]
+    path = "github.com/willfaught/paige"
+
+[paige]
+    external_link_new_tab = true
