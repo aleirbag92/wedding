@@ -24,7 +24,7 @@ The 2 neighbourhoods in Buenos Aires that we would recommend for your stay are:
 1. **Palermo (Soho/Hollywood)**
 2. **Recoleta**
     
-**Palermo** is "hipper" with a lot of restaurants, bars, and nightlife to choose from, while **Recoleta** is a bit more old-school & family oriented with parks, tourist attractions, shopping, and cafes. The 2 neighbourhoods are about a 40min walk or 10min taxi ride away from each other.
+**Palermo** is "hipper" with a lot of restaurants, bars, and nightlife to choose from, while **Recoleta** is a bit more old-school & family oriented with parks, tourist attractions, shopping, and cafes. The 2 neighbourhoods are about a 40min walk or 10min taxi ride away from each other. Caro & Patrick will be staying in Recoleta.
 
 
 ### Things to do
