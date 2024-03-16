@@ -10,9 +10,10 @@ header_menu: true
 - **LANGUAGE**: Spanish with a mix of {{<extlink text="local slang." href="https://baselang.com/blog/vocabulary/argentine-slang/">}}
 - **CURRENCY**: 
     - ARS (Argentine Peso)
-    - {{<extlink text="USD:ARS ~950" href="https://dolarhoy.com/cotizaciondolarblue">}}
-- **PAYMENTS**: Cash is king. Visa & Mastercard have widespread support as well, but they have slightly worse exchange rates over using cash as the government levies a tax ontop of the exchange rate.
-    - **Recommendation**: bring enough USD cash to cover drinks/food and ideally accommodation (you may be able to get a better deal). We can help exchange USD to ARS at a "cueva" once you're here.
+    - {{<extlink text="USD:ARS ~1100" href="https://dolarhoy.com/cotizaciondolarblue">}}
+- **PAYMENTS**: Cash is king. Visa & Mastercard have widespread support as well in the city. AMEX is NOT widely accepted.
+- **MOBILE**: Check if your carrier has a roaming plan that supports Argentina too. 
+    - Other options are: eSIM or getting a SIM (chip) when you're in Argentina.
 - **DELIVERY**: You can get almost anything delivered to where you're staying using the {{<extlink text="Rappi app" href="https://about.rappi.com">}} or {{<extlink text="PedidosYa" href="https://www.pedidosya.com.ar/">}}. Craving ice cream at 1am? Rappi or PedidosYa it.
 
 
