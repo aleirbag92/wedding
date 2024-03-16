@@ -10,4 +10,4 @@ header_menu: true
 
 - **DATES**:
     - **Thu 28-Mar**: Meet & Greet - {{<extlink text="Mis Mulas" href="https://maps.app.goo.gl/iWY7ftg2oTjfxmeC8">}} @ 18:45
-    - **<span style="color:#8b0000">Sat 30-Mar</span>: Ceremony / Fiesta**
+    - **<span style="color:#8b0000">Sat 30-Mar</span>: Ceremony / Fiesta**``
