@@ -1,4 +1,4 @@
-baseURL = 'https://nextadventure.io/'
+'baseURL = 'https://nextadventure.io/'
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 defaultContentLanguage = 'en'
 title = "Caro & the Viking | Mar 2024"
